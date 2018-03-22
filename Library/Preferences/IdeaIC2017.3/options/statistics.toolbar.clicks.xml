@@ -1,0 +1,18 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="MarkNotificationsAsRead@EventLog" count="1" />
+      <entry action="Maven.AddManagedFiles@Maven Navigator Toolbar" count="3" />
+      <entry action="Maven.DownloadAllGroupPopup@Maven Navigator Toolbar" count="1" />
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="23" />
+      <entry action="Rerun@RunnerToolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="9" />
+      <entry action="Stop@NavBarToolbar" count="2" />
+      <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="1" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$DisplayBalloons@EventLog" count="1" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings@EventLog" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="4" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="16" />
+    </counts>
+  </component>
+</application>
