@@ -1,0 +1,2 @@
+#!/bin/sh
+"/Applications/IntelliJ IDEA CE.app/Contents/jdk/Contents/Home/jre/bin/java" -cp "/Applications/IntelliJ IDEA CE.app/Contents/plugins/git4idea/lib/git4idea-rt.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/xmlrpc-2.0.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/commons-codec-1.9.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/util.jar" org.jetbrains.git4idea.http.GitAskPassApp "$@"

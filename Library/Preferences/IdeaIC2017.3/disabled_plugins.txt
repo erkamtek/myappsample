@@ -1,0 +1,3 @@
+Coverage
+JUnit
+org.jetbrains.android

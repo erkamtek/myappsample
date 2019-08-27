@@ -1,0 +1,67 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="comseleniumUI">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.seleniumUI</groupId>
+            <artifactId>com.seleniumUI</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>/Users/tek/Downloads/comseleniumUI</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogdGVrDQpDcmVhdGVkLUJ5OiBJbnRlbGxpSiBJREVBDQpCdWlsZC1KZGs6IDEuOC4wXzE1Mg0KDQo=</manifest>
+        <classpath>selenium-java-3.8.1.jar selenium-api-3.8.1.jar selenium-chrome-driver-3.8.1.jar selenium-edge-driver-3.8.1.jar selenium-firefox-driver-3.8.1.jar selenium-ie-driver-3.8.1.jar selenium-opera-driver-3.8.1.jar selenium-remote-driver-3.8.1.jar selenium-safari-driver-3.8.1.jar selenium-support-3.8.1.jar byte-buddy-1.7.5.jar commons-exec-1.3.jar commons-codec-1.10.jar commons-logging-1.2.jar gson-2.8.2.jar guava-23.0.jar jsr305-1.3.9.jar error_prone_annotations-2.0.18.jar j2objc-annotations-1.1.jar animal-sniffer-annotations-1.14.jar httpclient-4.5.3.jar httpcore-4.4.6.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="com.seleniumUI" />
+          <entry key="build.directory" value="/Users/tek/Downloads/comseleniumUI/target" />
+          <entry key="build.finalName" value="com.seleniumUI-1.0-SNAPSHOT" />
+          <entry key="build.outputDirectory" value="/Users/tek/Downloads/comseleniumUI/target/classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="/Users/tek/Downloads/comseleniumUI/src/main/scripts" />
+          <entry key="build.sourceDirectory" value="/Users/tek/Downloads/comseleniumUI/src/main/java" />
+          <entry key="build.testOutputDirectory" value="/Users/tek/Downloads/comseleniumUI/target/test-classes" />
+          <entry key="build.testSourceDirectory" value="/Users/tek/Downloads/comseleniumUI/src/test/java" />
+          <entry key="groupId" value="com.seleniumUI" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="packaging" value="jar" />
+          <entry key="pomFile" value="/Users/tek/Downloads/comseleniumUI/pom.xml" />
+          <entry key="reporting.outputDirectory" value="/Users/tek/Downloads/comseleniumUI/target/site" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_152&quot;" />
+          <entry key="settings.localRepository" value="/Users/tek/.m2/repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>/Users/tek/Downloads/comseleniumUI/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>/Users/tek/Downloads/comseleniumUI/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

@@ -1,0 +1,45 @@
+<application>
+  <component name="DimensionService">
+    <location key="NewModule_or_Project.wizard.0.0.2880.1800@192dpi" x="732" y="84" />
+    <location key="new project wizard.0.0.2880.1800@192dpi" x="804" y="126" />
+    <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1438" y="764" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2880.1800@192dpi" x="754" y="522" />
+    <location key="SettingsEditor.0.0.2880.1800@192dpi" x="414" y="46" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.2880.1800@192dpi" x="988" y="344" />
+    <location key="#Project_Structure.0.0.2880.1800@192dpi" x="416" y="46" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2880.1800@192dpi" x="584" y="160" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.2880.1800@192dpi" x="914" y="450" />
+    <location key="#Notifications.0.0.2880.1800@192dpi" x="968" y="312" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.2880.1800@192dpi" x="892" y="262" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.2880.1800@192dpi" x="614" y="66" />
+    <location key="Maven.ArtifactSearchDialog.0.0.2880.1800@192dpi" x="516" y="180" />
+    <location key="GitCloneDialog.0.0.2880.1800@192dpi" x="1056" y="596" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.2880.1800@192dpi" x="916" y="380" />
+    <location key="Github.CreateGistDialog.0.0.2880.1800@192dpi" x="1108" y="656" />
+    <location key="CommitChangelistDialog2.0.0.2880.1800@192dpi" x="250" y="98" />
+    <location key="Vcs.Push.Dialog.0.0.2880.1800@192dpi" x="808" y="336" />
+    <location key="git4idea.ui.GitResetDialog.0.0.2880.1800@192dpi" x="1068" y="666" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.2880.1800@192dpi" x="1082" y="600" />
+    <location key="#Browse_Repositories.0.0.2880.1800@192dpi" x="614" y="182" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2880.1800@192dpi" x="900" y="470" />
+    <location key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog.0.0.2880.1800@192dpi" x="1030" y="724" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.2880.1800@192dpi" x="670" y="260" />
+    <location key="#Login.feature.0.0.2880.1800@192dpi" x="936" y="524" />
+    <location key="#Inspections.0.0.2880.1800@192dpi" x="720" y="224" />
+    <location key="find.popup.0.0.2880.1800@192dpi" x="734" y="316" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2796" height="302" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2796" height="302" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2796" height="302" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2796" height="302" />
+    <size key="NewModule_or_Project.wizard.0.0.2880.1800@192dpi" width="1546" height="1360" />
+    <size key="SettingsEditor.0.0.2880.1800@192dpi" width="2048" height="1628" />
+    <size key="#Project_Structure.0.0.2880.1800@192dpi" width="2048" height="1628" />
+    <size key="git4idea.rebase.GitRebaseDialog.0.0.2880.1800@192dpi" width="746" height="518" />
+    <size key="GridCell.Tab.1.left.0.0.2880.1800@192dpi" width="2796" height="526" />
+    <size key="GridCell.Tab.1.center.0.0.2880.1800@192dpi" width="2796" height="526" />
+    <size key="GridCell.Tab.1.right.0.0.2880.1800@192dpi" width="2796" height="526" />
+    <size key="GridCell.Tab.1.bottom.0.0.2880.1800@192dpi" width="2796" height="526" />
+    <size key="CommitChangelistDialog2.0.0.2880.1800@192dpi" width="1968" height="1520" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="1944" height="1254" />
+  </component>
+</application>

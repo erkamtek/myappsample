@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/tek/Downloads/api-automation-rest-assured-basic-master/.idea/misc.xml" timestamp="1520853742000" />
+    <file path="/Users/tek/Downloads/api-automation-rest-assured-basic-master/.idea/modules.xml" timestamp="1520853743000" />
+    <file path="/Users/tek/Downloads/api-automation-rest-assured-basic-master/.idea/workspace.xml" timestamp="1520854177000" />
+    <file path="/Users/tek/Downloads/api-automation-rest-assured-basic-master/src/main/main.iml" timestamp="1520853743000" />
+    <file path="/Users/tek/Downloads/api-automation-rest-assured-basic-master/src/test/test.iml" timestamp="1520853743000" />
+  </project-files>
+</conversion>
+

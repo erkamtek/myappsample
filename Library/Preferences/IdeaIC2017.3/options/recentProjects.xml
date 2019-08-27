@@ -1,0 +1,251 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Downloads/CucumberBeginner" />
+        <option value="$USER_HOME$/Downloads/cucumber" />
+        <option value="$USER_HOME$/Downloads/BDDCucumberSeleniumWebTest" />
+        <option value="$USER_HOME$/Downloads/CucumberBDD" />
+        <option value="$USER_HOME$/Downloads/comTek" />
+        <option value="$USER_HOME$/Downloads/Expedia" />
+        <option value="$USER_HOME$/Downloads/TurkcellAkademiWL-KurumsalPortalWeb" />
+        <option value="$USER_HOME$/Downloads/comseleniumUI" />
+        <option value="$USER_HOME$/Downloads/nodejs-sequelize-many-to-many-example-master" />
+        <option value="$USER_HOME$/Desktop/JsExample2/express_server" />
+        <option value="$USER_HOME$/Downloads/POMJAVAExample-master" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Downloads/CucumberBeginner" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Downloads/CucumberBeginner" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/JsExample2/express_server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528529868500" />
+              <option name="buildTimestamp" value="1520278455844" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/BDDCucumberSeleniumWebTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564501086042" />
+              <option name="buildTimestamp" value="1520278495667" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CucumberBDD">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564501060231" />
+              <option name="buildTimestamp" value="1520278495667" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CucumberBeginner">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4710.11" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566921110758" />
+              <option name="buildTimestamp" value="1554364807894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/ExampleAuto">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521206523310" />
+              <option name="buildTimestamp" value="1520278474700" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/ExampleAutomation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4548.28" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521128359987" />
+              <option name="buildTimestamp" value="1517267476515" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Expedia">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564479310421" />
+              <option name="buildTimestamp" value="1520278454679" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/POMJAVAExample-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526068271661" />
+              <option name="buildTimestamp" value="1520278476622" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/TurkcellAkademiWL-KurumsalPortalWeb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564479288546" />
+              <option name="buildTimestamp" value="1520278454679" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/api-automation-rest-assured-basic-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4548.28" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520854177345" />
+              <option name="buildTimestamp" value="1517267493197" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/comTek">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564479414698" />
+              <option name="buildTimestamp" value="1520278454679" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/comerkamtest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521208648662" />
+              <option name="buildTimestamp" value="1520278474700" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/comseleniumUI">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564478778629" />
+              <option name="buildTimestamp" value="1520278484522" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/cucumber">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565949433310" />
+              <option name="buildTimestamp" value="1520278490528" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/cucumberBDD">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522061125930" />
+              <option name="buildTimestamp" value="1520278480483" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/express_server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528529887827" />
+              <option name="buildTimestamp" value="1520278455844" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/firtsAutomation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4548.28" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521031696044" />
+              <option name="buildTimestamp" value="1517267498679" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/nodejs-sequelize-many-to-many-example-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4674.33" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532536247362" />
+              <option name="buildTimestamp" value="1520278468256" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/tek">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4548.28" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521031699043" />
+              <option name="buildTimestamp" value="1517267498679" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Tek">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-173.4301.25" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518519854601" />
+              <option name="buildTimestamp" value="1516035417482" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Downloads" />
+  </component>
+</application>

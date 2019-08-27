@@ -4,15 +4,18 @@
       <entry action="MarkNotificationsAsRead@EventLog" count="1" />
       <entry action="Maven.AddManagedFiles@Maven Navigator Toolbar" count="3" />
       <entry action="Maven.DownloadAllGroupPopup@Maven Navigator Toolbar" count="1" />
-      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="23" />
-      <entry action="Rerun@RunnerToolbar" count="1" />
-      <entry action="Run@NavBarToolbar" count="10" />
+      <entry action="Maven.ExecuteGoal@Maven Navigator Toolbar" count="1" />
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="36" />
+      <entry action="Rerun@RunnerToolbar" count="3" />
+      <entry action="Run@NavBarToolbar" count="36" />
+      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="1" />
       <entry action="Stop@NavBarToolbar" count="2" />
       <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="1" />
-      <entry action="com.intellij.notification.EventLogToolWindowFactory$DisplayBalloons@EventLog" count="1" />
-      <entry action="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings@EventLog" count="1" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$DisplayBalloons@EventLog" count="2" />
+      <entry action="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings@EventLog" count="2" />
       <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="4" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="16" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="29" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />
     </counts>
   </component>
 </application>
