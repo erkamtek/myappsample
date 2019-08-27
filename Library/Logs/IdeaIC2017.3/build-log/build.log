@@ -5758,3 +5758,880 @@
 2019-08-27 17:38:56,300 [    977]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
 2019-08-27 17:38:56,477 [   1154]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
 2019-08-27 17:38:56,583 [   1260]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1261 ms
+2019-08-27 18:07:27,902 [1712579]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:07:27,908 [1712585]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:07:27,940 [1712617]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:07:27,940 [1712617]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 5b2b74f8
+2019-08-27 18:07:27,982 [1712659]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:07:28,606 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:07:28,606 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:07:29,081 [    475]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 410 ms
+2019-08-27 18:07:29,172 [    566]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:07:29,582 [    976]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 410 ms
+2019-08-27 18:07:29,582 [    976]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:07:29,735 [   1129]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:07:29,968 [   1362]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1364 ms
+2019-08-27 18:08:32,324 [  63718]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:08:44,739 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:08:44,739 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:08:45,041 [    302]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 272 ms
+2019-08-27 18:08:45,142 [    403]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:08:45,395 [    656]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 253 ms
+2019-08-27 18:08:45,395 [    656]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 8 libraries
+2019-08-27 18:08:45,521 [    782]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:08:45,644 [    905]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:08:45,647 [    908]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:08:45,698 [    959]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:08:45,698 [    959]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 6937f1b5
+2019-08-27 18:08:45,728 [    989]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2019-08-27 18:08:45,850 [   1111]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:08:46,505 [   1766]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:08:46,552 [   1813]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:08:46,626 [   1887]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:08:46,629 [   1890]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:08:47,098 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:08:47,099 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:08:47,578 [    480]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 446 ms
+2019-08-27 18:08:47,662 [    564]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:08:47,977 [    879]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 315 ms
+2019-08-27 18:08:47,979 [    881]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 8 libraries
+2019-08-27 18:08:48,098 [   1000]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:08:48,273 [   1175]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1176 ms
+2019-08-27 18:08:58,569 [  11471]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:08:59,835 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:08:59,836 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:09:00,119 [    284]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 247 ms
+2019-08-27 18:09:00,219 [    384]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:09:00,511 [    676]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 292 ms
+2019-08-27 18:09:00,511 [    676]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 16 libraries
+2019-08-27 18:09:00,638 [    803]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:09:00,837 [   1002]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:09:00,839 [   1004]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:09:00,858 [   1023]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:09:00,858 [   1023]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 5e0dc9cd
+2019-08-27 18:09:00,903 [   1068]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2019-08-27 18:09:01,041 [   1206]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:09:01,775 [   1940]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:09:01,836 [   2001]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 716 ms, 2 sources processed
+2019-08-27 18:09:01,836 [   2001]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:09:02,291 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:09:02,292 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:09:02,801 [    510]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 452 ms
+2019-08-27 18:09:02,890 [    599]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:09:03,187 [    896]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 297 ms
+2019-08-27 18:09:03,187 [    896]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 16 libraries
+2019-08-27 18:09:03,325 [   1034]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:09:03,444 [   1153]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1155 ms
+2019-08-27 18:09:24,985 [  22694]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:09:25,845 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:09:25,845 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:09:26,350 [    505]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 458 ms
+2019-08-27 18:09:26,454 [    609]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:09:26,762 [    917]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 308 ms
+2019-08-27 18:09:26,762 [    917]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:09:26,882 [   1037]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:09:27,002 [   1157]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:09:27,009 [   1164]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:09:27,060 [   1215]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:09:27,060 [   1215]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 3bba189d
+2019-08-27 18:09:27,096 [   1251]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:09:27,227 [   1382]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:09:27,956 [   2111]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:09:28,010 [   2165]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:09:28,145 [   2300]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:09:28,156 [   2311]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 848 ms, 3 sources processed
+2019-08-27 18:09:28,157 [   2312]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:09:28,808 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:09:28,808 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:09:29,324 [    516]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 411 ms
+2019-08-27 18:09:29,461 [    653]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:09:29,842 [   1034]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 381 ms
+2019-08-27 18:09:29,843 [   1035]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:09:29,989 [   1181]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:09:30,100 [   1292]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1294 ms
+2019-08-27 18:10:59,180 [  90372]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:11:02,375 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:11:02,375 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:11:02,679 [    304]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 256 ms
+2019-08-27 18:11:02,772 [    397]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:11:03,019 [    644]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 247 ms
+2019-08-27 18:11:03,019 [    644]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:11:03,165 [    790]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:11:03,285 [    910]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:11:03,288 [    913]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:11:03,318 [    943]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:11:03,319 [    944]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started d46bb330
+2019-08-27 18:11:03,342 [    967]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:11:03,455 [   1080]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:11:04,100 [   1725]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:11:04,156 [   1781]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 623 ms, 2 sources processed
+2019-08-27 18:11:04,157 [   1782]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:11:04,783 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:11:04,783 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:11:05,280 [    497]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 413 ms
+2019-08-27 18:11:05,368 [    585]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:11:05,687 [    904]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 319 ms
+2019-08-27 18:11:05,687 [    904]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:11:05,818 [   1035]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:11:05,934 [   1151]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1153 ms
+2019-08-27 18:12:28,153 [  83370]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:12:30,856 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:12:30,856 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:12:31,138 [    282]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 240 ms
+2019-08-27 18:12:31,233 [    377]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:12:31,515 [    659]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 282 ms
+2019-08-27 18:12:31,515 [    659]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:12:31,644 [    788]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:12:31,760 [    904]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:12:31,762 [    906]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:12:31,794 [    938]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:12:31,794 [    938]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 6d5e7d78
+2019-08-27 18:12:31,819 [    963]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:12:31,942 [   1086]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:12:32,673 [   1817]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:12:32,732 [   1876]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 708 ms, 2 sources processed
+2019-08-27 18:12:32,733 [   1877]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:12:33,395 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:12:33,396 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:12:33,910 [    515]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 427 ms
+2019-08-27 18:12:34,027 [    632]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:12:34,448 [   1053]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 421 ms
+2019-08-27 18:12:34,448 [   1053]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:12:34,612 [   1217]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:12:34,798 [   1403]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1404 ms
+2019-08-27 18:14:10,880 [  97485]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:14:20,262 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:14:20,264 [      3]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:14:20,586 [    325]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 279 ms
+2019-08-27 18:14:20,886 [    625]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:14:21,200 [    939]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 314 ms
+2019-08-27 18:14:21,200 [    939]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:14:21,320 [   1059]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:14:21,473 [   1212]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:14:21,476 [   1215]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:14:21,501 [   1240]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:14:21,501 [   1240]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 93836882
+2019-08-27 18:14:21,525 [   1264]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:14:21,639 [   1378]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:14:22,268 [   2007]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:14:22,313 [   2052]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:14:22,409 [   2148]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:14:22,419 [   2158]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 707 ms, 3 sources processed
+2019-08-27 18:14:22,420 [   2159]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:14:23,000 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:14:23,001 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:14:23,472 [    472]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 425 ms
+2019-08-27 18:14:23,570 [    570]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:14:23,884 [    884]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 314 ms
+2019-08-27 18:14:23,884 [    884]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:14:24,037 [   1037]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:14:24,142 [   1142]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1145 ms
+2019-08-27 18:16:34,760 [ 131760]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:16:43,203 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:16:43,204 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:16:43,542 [    339]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 256 ms
+2019-08-27 18:16:43,629 [    426]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:16:43,913 [    710]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 284 ms
+2019-08-27 18:16:43,914 [    711]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 18 libraries
+2019-08-27 18:16:44,042 [    839]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:16:44,221 [   1018]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:16:44,224 [   1021]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:16:44,255 [   1052]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:16:44,255 [   1052]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started f53b04a1
+2019-08-27 18:16:44,294 [   1091]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:16:44,455 [   1252]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:16:45,277 [   2074]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:16:45,333 [   2130]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:16:45,459 [   2256]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:16:45,473 [   2270]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 921 ms, 3 sources processed
+2019-08-27 18:16:45,474 [   2271]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:16:46,185 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:16:46,185 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:16:46,623 [    438]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 376 ms
+2019-08-27 18:16:46,700 [    515]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:16:47,038 [    853]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 338 ms
+2019-08-27 18:16:47,039 [    854]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 18 libraries
+2019-08-27 18:16:47,175 [    990]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:16:47,281 [   1096]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1098 ms
+2019-08-27 18:16:57,575 [  11390]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:18:02,117 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:18:02,117 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:18:02,496 [    379]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 332 ms
+2019-08-27 18:18:02,643 [    526]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:18:03,039 [    922]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 396 ms
+2019-08-27 18:18:03,039 [    922]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 18 libraries
+2019-08-27 18:18:03,171 [   1054]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:18:03,337 [   1220]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:18:03,341 [   1224]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:18:03,375 [   1258]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:18:03,375 [   1258]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 8b8f1abc
+2019-08-27 18:18:03,415 [   1298]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2019-08-27 18:18:03,551 [   1434]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:18:04,327 [   2210]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:18:04,394 [   2277]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:18:04,512 [   2395]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:18:04,535 [   2418]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 865 ms, 3 sources processed
+2019-08-27 18:18:04,535 [   2418]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:18:05,335 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:18:05,335 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:18:05,780 [    445]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 373 ms
+2019-08-27 18:18:05,964 [    629]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:18:06,414 [   1079]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 450 ms
+2019-08-27 18:18:06,414 [   1079]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 18 libraries
+2019-08-27 18:18:06,743 [   1408]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:18:06,914 [   1579]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1581 ms
+2019-08-27 18:18:17,405 [  12070]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:18:18,100 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:18:18,100 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:18:18,507 [    407]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 323 ms
+2019-08-27 18:18:18,614 [    514]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:18:18,996 [    896]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 382 ms
+2019-08-27 18:18:18,996 [    896]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 18 libraries
+2019-08-27 18:18:19,123 [   1023]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:18:19,264 [   1164]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:18:19,266 [   1166]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:18:19,313 [   1213]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:18:19,314 [   1214]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b0cfca21
+2019-08-27 18:18:19,349 [   1249]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:18:20,152 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:18:20,153 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:18:20,716 [    564]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 505 ms
+2019-08-27 18:18:20,822 [    670]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:18:21,304 [   1152]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 482 ms
+2019-08-27 18:18:21,304 [   1152]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 18 libraries
+2019-08-27 18:18:21,414 [   1262]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:18:21,618 [   1466]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1467 ms
+2019-08-27 18:18:37,006 [  16854]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:19:58,414 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:19:58,414 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:19:58,752 [    338]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 296 ms
+2019-08-27 18:19:58,862 [    448]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:19:59,146 [    732]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 284 ms
+2019-08-27 18:19:59,146 [    732]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 20 libraries
+2019-08-27 18:19:59,300 [    886]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:19:59,469 [   1055]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:19:59,471 [   1057]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:19:59,504 [   1090]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:19:59,504 [   1090]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started bb81bdf9
+2019-08-27 18:19:59,538 [   1124]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2019-08-27 18:19:59,688 [   1274]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:20:00,554 [   2140]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:20:00,622 [   2208]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:20:00,715 [   2301]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:20:00,729 [   2315]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 934 ms, 3 sources processed
+2019-08-27 18:20:00,729 [   2315]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:20:01,407 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:20:01,408 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:20:01,920 [    513]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 422 ms
+2019-08-27 18:20:02,006 [    599]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:20:02,387 [    980]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 381 ms
+2019-08-27 18:20:02,387 [    980]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 20 libraries
+2019-08-27 18:20:02,557 [   1150]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:20:02,690 [   1283]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1283 ms
+2019-08-27 18:20:44,423 [  43016]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:20:53,840 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:20:53,840 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:20:54,165 [    325]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 257 ms
+2019-08-27 18:20:54,263 [    423]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:20:54,546 [    706]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 283 ms
+2019-08-27 18:20:54,546 [    706]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 16 libraries
+2019-08-27 18:20:54,688 [    848]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:20:54,822 [    982]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:20:54,826 [    986]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:20:54,860 [   1020]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:20:54,861 [   1021]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 774423f7
+2019-08-27 18:20:54,898 [   1058]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:20:55,023 [   1183]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:20:55,756 [   1916]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:20:55,838 [   1998]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:20:55,942 [   2102]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:20:55,952 [   2112]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 816 ms, 3 sources processed
+2019-08-27 18:20:55,953 [   2113]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:20:56,528 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:20:56,528 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:20:57,073 [    545]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 483 ms
+2019-08-27 18:20:57,193 [    665]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:20:57,553 [   1025]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 360 ms
+2019-08-27 18:20:57,554 [   1026]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 16 libraries
+2019-08-27 18:20:57,684 [   1156]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:20:57,805 [   1277]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1279 ms
+2019-08-27 18:21:05,751 [   9223]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:21:14,366 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:21:14,367 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:21:14,749 [    383]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 321 ms
+2019-08-27 18:21:14,846 [    480]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:21:15,122 [    756]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 276 ms
+2019-08-27 18:21:15,122 [    756]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:21:15,230 [    864]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:21:15,346 [    980]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:21:15,350 [    984]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:21:15,386 [   1020]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:21:15,386 [   1020]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started d214208
+2019-08-27 18:21:15,415 [   1049]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:21:15,566 [   1200]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:21:16,236 [   1870]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:21:16,290 [   1924]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:21:16,419 [   2053]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:21:16,446 [   2080]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 748 ms, 3 sources processed
+2019-08-27 18:21:16,446 [   2080]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:21:17,149 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:21:17,154 [      5]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:21:17,797 [    648]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 560 ms
+2019-08-27 18:21:17,916 [    767]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:21:18,344 [   1195]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 428 ms
+2019-08-27 18:21:18,345 [   1196]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:21:18,473 [   1324]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:21:18,598 [   1449]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1451 ms
+2019-08-27 18:24:30,591 [ 193442]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:30:11,731 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:30:11,731 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:30:11,983 [    252]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 209 ms
+2019-08-27 18:30:12,079 [    348]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:30:12,362 [    631]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 283 ms
+2019-08-27 18:30:12,362 [    631]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 15 libraries
+2019-08-27 18:30:12,492 [    761]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:30:12,633 [    902]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:30:12,635 [    904]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:30:12,665 [    934]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:30:12,665 [    934]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c55f3412
+2019-08-27 18:30:12,705 [    974]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:30:12,834 [   1103]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:30:13,452 [   1721]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:30:13,498 [   1767]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:30:13,581 [   1850]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:30:13,592 [   1861]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 681 ms, 3 sources processed
+2019-08-27 18:30:13,592 [   1861]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:30:14,071 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:30:14,071 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:30:14,403 [    332]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 288 ms
+2019-08-27 18:30:14,504 [    433]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:30:14,783 [    712]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 279 ms
+2019-08-27 18:30:14,784 [    713]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 15 libraries
+2019-08-27 18:30:14,863 [    792]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:30:14,943 [    872]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 874 ms
+2019-08-27 18:31:08,065 [  53994]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:31:15,688 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:31:15,688 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:31:15,925 [    237]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 208 ms
+2019-08-27 18:31:16,019 [    331]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:31:16,336 [    648]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 317 ms
+2019-08-27 18:31:16,336 [    648]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 16 libraries
+2019-08-27 18:31:16,439 [    751]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:31:16,548 [    860]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:31:16,550 [    862]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:31:16,580 [    892]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:31:16,580 [    892]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a8a932b4
+2019-08-27 18:31:16,609 [    921]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2019-08-27 18:31:16,755 [   1067]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:31:17,407 [   1719]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:31:17,459 [   1771]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 636 ms, 2 sources processed
+2019-08-27 18:31:17,459 [   1771]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:31:18,116 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:31:18,116 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:31:18,533 [    417]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 371 ms
+2019-08-27 18:31:18,604 [    488]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:31:19,159 [   1043]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 555 ms
+2019-08-27 18:31:19,159 [   1043]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 16 libraries
+2019-08-27 18:31:19,383 [   1267]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:31:19,575 [   1459]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1461 ms
+2019-08-27 18:31:53,510 [  35394]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:32:00,973 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:32:00,974 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:32:01,253 [    280]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 234 ms
+2019-08-27 18:32:01,367 [    394]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:32:01,625 [    652]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 258 ms
+2019-08-27 18:32:01,625 [    652]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 19 libraries
+2019-08-27 18:32:01,726 [    753]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:32:01,833 [    860]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:32:01,837 [    864]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:32:01,869 [    896]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:32:01,869 [    896]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 5b6ba72d
+2019-08-27 18:32:01,897 [    924]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:32:02,082 [   1109]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:32:02,817 [   1844]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:32:02,921 [   1948]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:32:03,021 [   2048]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:32:03,031 [   2058]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 51 ms, 0 sources processed
+2019-08-27 18:32:03,031 [   2058]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 808 ms, 3 sources processed
+2019-08-27 18:32:03,032 [   2059]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:32:03,579 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:32:03,584 [      5]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:32:04,000 [    421]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 388 ms
+2019-08-27 18:32:04,103 [    524]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:32:04,445 [    866]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 342 ms
+2019-08-27 18:32:04,446 [    867]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 19 libraries
+2019-08-27 18:32:04,602 [   1023]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:32:04,746 [   1167]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1168 ms
+2019-08-27 18:32:12,653 [   9074]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:32:20,846 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:32:20,847 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:32:21,115 [    269]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 227 ms
+2019-08-27 18:32:21,209 [    363]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:32:21,479 [    633]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 270 ms
+2019-08-27 18:32:21,479 [    633]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 16 libraries
+2019-08-27 18:32:21,576 [    730]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:32:21,682 [    836]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:32:21,684 [    838]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:32:21,715 [    869]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:32:21,715 [    869]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 114d99e9
+2019-08-27 18:32:21,740 [    894]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2019-08-27 18:32:21,862 [   1016]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:32:22,473 [   1627]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:32:22,521 [   1675]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:32:22,607 [   1761]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:32:22,617 [   1771]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 679 ms, 3 sources processed
+2019-08-27 18:32:22,617 [   1771]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:32:23,246 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:32:23,246 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:32:23,662 [    416]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 344 ms
+2019-08-27 18:32:23,764 [    518]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:32:24,176 [    930]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 412 ms
+2019-08-27 18:32:24,176 [    930]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 16 libraries
+2019-08-27 18:32:24,285 [   1039]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:32:24,395 [   1149]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1150 ms
+2019-08-27 18:32:31,402 [   8156]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:32:41,349 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:32:41,349 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:32:41,607 [    258]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 225 ms
+2019-08-27 18:32:41,706 [    357]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:32:41,988 [    639]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 282 ms
+2019-08-27 18:32:41,988 [    639]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 19 libraries
+2019-08-27 18:32:42,104 [    755]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:32:42,213 [    864]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:32:42,216 [    867]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:32:42,245 [    896]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:32:42,245 [    896]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 4cb1a5fb
+2019-08-27 18:32:42,281 [    932]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2019-08-27 18:32:42,400 [   1051]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:32:43,171 [   1822]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:32:43,240 [   1891]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:32:43,328 [   1979]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:32:43,342 [   1993]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 823 ms, 3 sources processed
+2019-08-27 18:32:43,342 [   1993]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:32:43,863 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:32:43,864 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:32:44,220 [    357]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 308 ms
+2019-08-27 18:32:44,344 [    481]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:32:44,735 [    872]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 391 ms
+2019-08-27 18:32:44,735 [    872]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 19 libraries
+2019-08-27 18:32:44,815 [    952]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:32:44,898 [   1035]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1036 ms
+2019-08-27 18:33:03,590 [  19727]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:33:19,340 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:33:19,340 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:33:19,621 [    281]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 235 ms
+2019-08-27 18:33:19,716 [    376]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:33:19,983 [    643]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 267 ms
+2019-08-27 18:33:19,983 [    643]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:33:20,118 [    778]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:33:20,237 [    897]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:33:20,238 [    898]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:33:20,267 [    927]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:33:20,267 [    927]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 392ae0e0
+2019-08-27 18:33:20,292 [    952]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:33:20,405 [   1065]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:33:21,015 [   1675]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:33:21,075 [   1735]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:33:21,142 [   1802]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:33:21,153 [   1813]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 659 ms, 3 sources processed
+2019-08-27 18:33:21,153 [   1813]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:33:21,705 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:33:21,705 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:33:22,002 [    297]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 262 ms
+2019-08-27 18:33:22,110 [    405]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:33:22,393 [    688]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 283 ms
+2019-08-27 18:33:22,393 [    688]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:33:22,475 [    770]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:33:22,581 [    876]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 878 ms
+2019-08-27 18:33:44,519 [  22814]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:33:50,538 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:33:50,539 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:33:50,778 [    240]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 203 ms
+2019-08-27 18:33:51,610 [   1072]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:33:51,961 [   1423]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 351 ms
+2019-08-27 18:33:51,961 [   1423]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:33:52,060 [   1522]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:33:52,200 [   1662]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:33:52,202 [   1664]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:33:52,244 [   1706]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:33:52,244 [   1706]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b2e2403a
+2019-08-27 18:33:52,278 [   1740]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2019-08-27 18:33:52,433 [   1895]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:33:53,219 [   2681]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:33:53,278 [   2740]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:33:53,395 [   2857]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:33:53,407 [   2869]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 847 ms, 3 sources processed
+2019-08-27 18:33:53,407 [   2869]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:33:53,972 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:33:53,973 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:33:54,609 [    637]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 472 ms
+2019-08-27 18:33:54,689 [    717]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:33:55,077 [   1105]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 388 ms
+2019-08-27 18:33:55,077 [   1105]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:33:55,179 [   1207]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:33:55,305 [   1333]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1334 ms
+2019-08-27 18:33:55,382 [   1410]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2019-08-27 18:33:55,904 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:33:55,905 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:33:56,357 [    453]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 391 ms
+2019-08-27 18:33:56,474 [    570]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:33:56,803 [    899]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 329 ms
+2019-08-27 18:33:56,803 [    899]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:33:56,928 [   1024]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:33:57,038 [   1134]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1135 ms
+2019-08-27 18:34:09,084 [  13180]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:34:21,855 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:34:21,856 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:34:22,095 [    240]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 208 ms
+2019-08-27 18:34:22,186 [    331]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:34:22,470 [    615]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 284 ms
+2019-08-27 18:34:22,470 [    615]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:34:22,570 [    715]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:34:22,698 [    843]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:34:22,700 [    845]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:34:22,730 [    875]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:34:22,730 [    875]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 3cb145a3
+2019-08-27 18:34:22,755 [    900]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2019-08-27 18:34:22,868 [   1013]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:34:23,559 [   1704]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:34:23,615 [   1760]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 666 ms, 2 sources processed
+2019-08-27 18:34:23,616 [   1761]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:34:24,123 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:34:24,124 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:34:24,602 [    479]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 376 ms
+2019-08-27 18:34:24,735 [    612]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:34:25,067 [    944]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 332 ms
+2019-08-27 18:34:25,067 [    944]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:34:25,238 [   1115]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:34:25,364 [   1241]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1242 ms
+2019-08-27 18:35:06,683 [  42560]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:35:06,686 [  42563]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:35:06,705 [  42582]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:35:06,706 [  42583]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a5f13bc9
+2019-08-27 18:35:06,726 [  42603]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2019-08-27 18:35:06,802 [  42679]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:35:06,821 [  42698]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:35:07,284 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:35:07,285 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:35:07,729 [    445]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 395 ms
+2019-08-27 18:35:07,817 [    533]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:35:08,128 [    844]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 311 ms
+2019-08-27 18:35:08,128 [    844]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:35:08,240 [    956]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:35:08,342 [   1058]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1059 ms
+2019-08-27 18:35:49,614 [  42330]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:35:49,617 [  42333]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:35:49,643 [  42359]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:35:49,644 [  42360]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 3824a6e2
+2019-08-27 18:35:49,667 [  42383]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:35:50,201 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:35:50,202 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:35:50,581 [    380]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 324 ms
+2019-08-27 18:35:50,657 [    456]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:35:51,011 [    810]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 354 ms
+2019-08-27 18:35:51,014 [    813]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:35:51,125 [    924]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:35:51,254 [   1053]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1054 ms
+2019-08-27 18:37:06,296 [  76095]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:37:27,588 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:37:27,589 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:37:28,158 [    570]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 525 ms
+2019-08-27 18:37:28,305 [    717]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:37:28,792 [   1204]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 487 ms
+2019-08-27 18:37:28,792 [   1204]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:37:29,001 [   1413]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:37:29,919 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:37:29,920 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:37:30,478 [    559]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 398 ms
+2019-08-27 18:37:30,710 [    791]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:37:31,390 [   1471]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 680 ms
+2019-08-27 18:37:31,415 [   1496]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:37:31,711 [   1792]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:37:32,044 [   2125]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2127 ms
+2019-08-27 18:38:30,189 [  60270]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:38:32,605 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:38:32,605 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:38:33,695 [   1090]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 913 ms
+2019-08-27 18:38:33,935 [   1330]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:38:34,471 [   1866]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 536 ms
+2019-08-27 18:38:34,472 [   1867]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:38:34,738 [   2133]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:38:35,031 [   2426]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:38:35,034 [   2429]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:38:35,125 [   2520]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:38:35,125 [   2520]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started fafe7fde
+2019-08-27 18:38:35,182 [   2577]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2019-08-27 18:38:35,594 [   2989]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:38:37,076 [   4471]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:38:37,123 [   4518]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner (tests)
+2019-08-27 18:38:37,302 [   4697]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:38:37,321 [   4716]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1536 ms, 2 sources processed
+2019-08-27 18:38:37,321 [   4716]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:38:38,502 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:38:38,503 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:38:39,322 [    820]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 759 ms
+2019-08-27 18:38:39,504 [   1002]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:38:40,121 [   1619]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 617 ms
+2019-08-27 18:38:40,121 [   1619]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:38:40,401 [   1899]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:38:40,588 [   2086]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2088 ms
+2019-08-27 18:38:56,960 [  18458]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:40:29,731 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:40:29,732 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:40:30,207 [    476]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 416 ms
+2019-08-27 18:40:30,322 [    591]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:40:30,620 [    889]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 298 ms
+2019-08-27 18:40:30,620 [    889]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 18 libraries
+2019-08-27 18:40:30,766 [   1035]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:40:30,890 [   1159]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:40:30,893 [   1162]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:40:30,933 [   1202]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:40:30,934 [   1203]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 17362260
+2019-08-27 18:40:30,975 [   1244]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2019-08-27 18:40:31,114 [   1383]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:40:31,822 [   2091]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:40:31,874 [   2143]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner (tests)
+2019-08-27 18:40:31,963 [   2232]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:40:31,973 [   2242]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 778 ms, 2 sources processed
+2019-08-27 18:40:31,973 [   2242]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:40:32,796 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:40:32,797 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:40:33,193 [    397]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 330 ms
+2019-08-27 18:40:33,332 [    536]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:40:33,720 [    924]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 388 ms
+2019-08-27 18:40:33,720 [    924]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 18 libraries
+2019-08-27 18:40:33,836 [   1040]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:40:34,117 [   1321]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1323 ms
+2019-08-27 18:40:42,546 [   9750]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:40:42,549 [   9753]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:40:42,583 [   9787]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:40:42,584 [   9788]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started e984a758
+2019-08-27 18:40:42,626 [   9830]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2019-08-27 18:40:43,587 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:40:43,587 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:40:43,988 [    401]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 279 ms
+2019-08-27 18:40:44,146 [    559]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:40:44,601 [   1014]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 455 ms
+2019-08-27 18:40:44,601 [   1014]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 18 libraries
+2019-08-27 18:40:44,823 [   1236]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:40:44,955 [   1368]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1370 ms
+2019-08-27 18:40:45,029 [   1442]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:41:03,160 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:41:03,161 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:41:03,459 [    299]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 245 ms
+2019-08-27 18:41:03,567 [    407]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:41:03,952 [    792]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 385 ms
+2019-08-27 18:41:03,952 [    792]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:41:04,056 [    896]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:41:04,185 [   1025]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:41:04,194 [   1034]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:41:04,228 [   1068]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:41:04,228 [   1068]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started fa946881
+2019-08-27 18:41:04,253 [   1093]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:41:04,383 [   1223]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner
+2019-08-27 18:41:05,237 [   2077]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:41:05,314 [   2154]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner (tests)
+2019-08-27 18:41:05,423 [   2263]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:41:05,445 [   2285]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 940 ms, 2 sources processed
+2019-08-27 18:41:05,446 [   2286]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:41:06,329 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:41:06,330 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:41:07,020 [    691]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 608 ms
+2019-08-27 18:41:07,184 [    855]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:41:07,710 [   1381]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 526 ms
+2019-08-27 18:41:07,710 [   1381]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:41:08,027 [   1698]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:41:08,203 [   1874]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1900 ms
+2019-08-27 18:42:04,089 [  57760]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:42:04,092 [  57763]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:42:04,151 [  57822]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:42:04,151 [  57822]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 426569ab
+2019-08-27 18:42:04,193 [  57864]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 7 ms
+2019-08-27 18:42:04,301 [  57972]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner (tests)
+2019-08-27 18:42:05,317 [  58988]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:42:05,388 [  59059]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1025 ms, 1 sources processed
+2019-08-27 18:42:05,390 [  59061]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:42:06,171 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:42:06,173 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:42:06,653 [    482]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 384 ms
+2019-08-27 18:42:06,743 [    572]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:42:07,229 [   1058]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 486 ms
+2019-08-27 18:42:07,229 [   1058]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:42:07,379 [   1208]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:42:07,524 [   1353]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1356 ms
+2019-08-27 18:45:27,597 [ 201426]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:45:27,600 [ 201429]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:45:27,633 [ 201462]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:45:27,633 [ 201462]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 949e6f5a
+2019-08-27 18:45:27,673 [ 201502]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2019-08-27 18:45:27,756 [ 201585]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner (tests)
+2019-08-27 18:45:28,689 [ 202518]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:45:28,745 [ 202574]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 922 ms, 1 sources processed
+2019-08-27 18:45:28,745 [ 202574]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:45:29,410 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:45:29,413 [      3]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:45:29,921 [    511]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 409 ms
+2019-08-27 18:45:30,034 [    624]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:45:30,537 [   1127]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 503 ms
+2019-08-27 18:45:30,537 [   1127]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:45:30,682 [   1272]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:45:30,851 [   1441]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1444 ms
+2019-08-27 18:45:41,996 [  12586]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:45:41,999 [  12589]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:45:42,044 [  12634]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:45:42,045 [  12635]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 5b06147d
+2019-08-27 18:45:42,080 [  12670]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2019-08-27 18:45:42,141 [  12731]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner (tests)
+2019-08-27 18:45:42,927 [  13517]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:45:42,999 [  13589]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 771 ms, 1 sources processed
+2019-08-27 18:45:42,999 [  13589]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:45:43,787 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:45:43,788 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:45:44,177 [    390]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 326 ms
+2019-08-27 18:45:44,258 [    471]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:45:44,699 [    912]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 441 ms
+2019-08-27 18:45:44,699 [    912]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:45:44,804 [   1017]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:45:44,920 [   1133]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1135 ms
+2019-08-27 18:54:28,515 [ 524728]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:54:44,522 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:54:44,523 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:54:44,919 [    397]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 369 ms
+2019-08-27 18:54:45,034 [    512]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:54:45,382 [    860]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 348 ms
+2019-08-27 18:54:45,382 [    860]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:54:45,503 [    981]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:54:45,636 [   1114]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:54:45,638 [   1116]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:54:45,667 [   1145]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:54:45,667 [   1145]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started d5fc9407
+2019-08-27 18:54:45,702 [   1180]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2019-08-27 18:54:45,860 [   1338]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:54:46,711 [   2189]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:54:46,772 [   2250]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 829 ms, 2 sources processed
+2019-08-27 18:54:46,773 [   2251]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:54:47,521 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:54:47,522 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:54:48,049 [    528]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 441 ms
+2019-08-27 18:54:48,145 [    624]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:54:48,574 [   1053]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 429 ms
+2019-08-27 18:54:48,577 [   1056]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:54:48,678 [   1157]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:54:48,783 [   1262]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1263 ms
+2019-08-27 18:55:10,373 [  22852]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:55:15,029 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:55:15,030 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:55:15,368 [    339]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 295 ms
+2019-08-27 18:55:15,476 [    447]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:55:15,753 [    724]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 278 ms
+2019-08-27 18:55:15,753 [    724]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 16 libraries
+2019-08-27 18:55:15,869 [    840]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:55:15,990 [    961]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:55:15,994 [    965]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:55:16,054 [   1025]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:55:16,054 [   1025]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started f9fd67a0
+2019-08-27 18:55:16,077 [   1048]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2019-08-27 18:55:16,205 [   1176]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:55:16,891 [   1862]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:55:16,944 [   1915]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 663 ms, 2 sources processed
+2019-08-27 18:55:16,945 [   1916]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:55:17,630 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:55:17,631 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:55:18,163 [    533]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 405 ms
+2019-08-27 18:55:18,290 [    660]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:55:18,739 [   1109]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 449 ms
+2019-08-27 18:55:18,739 [   1109]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 16 libraries
+2019-08-27 18:55:18,901 [   1271]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:55:19,032 [   1402]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1405 ms
+2019-08-27 18:56:10,339 [  52709]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:56:12,697 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:56:12,698 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:56:13,018 [    321]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 282 ms
+2019-08-27 18:56:13,116 [    419]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:56:13,419 [    722]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 303 ms
+2019-08-27 18:56:13,419 [    722]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:56:13,524 [    827]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:56:13,654 [    957]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:56:13,663 [    966]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:56:13,709 [   1012]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:56:13,710 [   1013]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 19ce265
+2019-08-27 18:56:13,747 [   1050]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2019-08-27 18:56:13,887 [   1190]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:56:14,641 [   1944]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:56:14,710 [   2013]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 731 ms, 2 sources processed
+2019-08-27 18:56:14,710 [   2013]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:56:15,360 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:56:15,361 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:56:15,875 [    515]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 405 ms
+2019-08-27 18:56:15,960 [    600]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:56:16,336 [    976]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 376 ms
+2019-08-27 18:56:16,336 [    976]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:56:16,485 [   1125]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:56:16,601 [   1241]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1243 ms
+2019-08-27 18:58:14,206 [ 118846]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:58:19,951 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:58:19,952 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:58:20,370 [    419]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 339 ms
+2019-08-27 18:58:20,465 [    514]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:58:20,739 [    788]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 274 ms
+2019-08-27 18:58:20,739 [    788]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:58:20,852 [    901]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:58:20,966 [   1015]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:58:20,969 [   1018]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:58:21,003 [   1052]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:58:21,003 [   1052]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c8953303
+2019-08-27 18:58:21,035 [   1084]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2019-08-27 18:58:21,169 [   1218]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:58:21,967 [   2016]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:58:22,016 [   2065]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 765 ms, 2 sources processed
+2019-08-27 18:58:22,017 [   2066]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:58:22,628 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:58:22,629 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:58:23,118 [    490]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 416 ms
+2019-08-27 18:58:23,200 [    572]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:58:23,590 [    962]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 390 ms
+2019-08-27 18:58:23,590 [    962]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:58:23,712 [   1084]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:58:23,978 [   1350]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1352 ms
+2019-08-27 18:58:24,045 [   1417]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-08-27 18:59:53,745 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:59:53,746 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:59:54,021 [    276]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 234 ms
+2019-08-27 18:59:54,157 [    412]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:59:54,595 [    850]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 438 ms
+2019-08-27 18:59:54,595 [    850]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:59:54,769 [   1024]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:59:54,946 [   1201]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 18:59:54,950 [   1205]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 18:59:55,011 [   1266]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 18:59:55,011 [   1266]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started d95d0443
+2019-08-27 18:59:55,054 [   1309]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2019-08-27 18:59:55,227 [   1482]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CucumberBeginner (tests)
+2019-08-27 18:59:56,134 [   2389]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 18:59:56,201 [   2456]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 873 ms, 2 sources processed
+2019-08-27 18:59:56,202 [   2457]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 18:59:56,858 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 18:59:56,859 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 18:59:57,318 [    460]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 385 ms
+2019-08-27 18:59:57,404 [    546]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 18:59:57,811 [    953]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 407 ms
+2019-08-27 18:59:57,811 [    953]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 18:59:57,926 [   1068]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 18:59:58,073 [   1215]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1216 ms
+2019-08-27 19:17:55,551 [1078693]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-08-27 19:17:55,554 [1078696]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-08-27 19:17:55,578 [1078720]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-08-27 19:17:55,578 [1078720]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 5bdb84a4
+2019-08-27 19:17:55,611 [1078753]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2019-08-27 19:17:55,663 [1078805]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CucumberBeginner (tests)
+2019-08-27 19:17:56,782 [1079924]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-08-27 19:17:56,843 [1079985]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1084 ms, 1 sources processed
+2019-08-27 19:17:56,844 [1079986]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_152 was used to compile [CucumberBeginner]
+2019-08-27 19:17:57,481 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-08-27 19:17:57,481 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /Applications/IntelliJ IDEA CE.app/Contents/lib/jps-launcher.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/lib/tools.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/optimizedFileManager.jar
+2019-08-27 19:17:58,025 [    544]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 456 ms
+2019-08-27 19:17:58,156 [    675]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /Users/tek/Downloads/CucumberBeginner, global options path = /Users/tek/Library/Preferences/IdeaIC2017.3/options
+2019-08-27 19:17:58,533 [   1052]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 377 ms
+2019-08-27 19:17:58,533 [   1052]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 17 libraries
+2019-08-27 19:17:58,727 [   1246]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-08-27 19:17:59,005 [   1524]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1530 ms

@@ -27,10 +27,11 @@
     <location key="#Login.feature.0.0.2880.1800@192dpi" x="936" y="524" />
     <location key="#Inspections.0.0.2880.1800@192dpi" x="720" y="224" />
     <location key="find.popup.0.0.2880.1800@192dpi" x="734" y="316" />
-    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2796" height="302" />
-    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2796" height="302" />
-    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2796" height="302" />
-    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2796" height="302" />
+    <location key="RollbackChangesDialog.0.0.2880.1800@192dpi" x="990" y="322" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2796" height="524" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2796" height="524" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2796" height="524" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2796" height="524" />
     <size key="NewModule_or_Project.wizard.0.0.2880.1800@192dpi" width="1546" height="1360" />
     <size key="SettingsEditor.0.0.2880.1800@192dpi" width="2048" height="1628" />
     <size key="#Project_Structure.0.0.2880.1800@192dpi" width="2048" height="1628" />

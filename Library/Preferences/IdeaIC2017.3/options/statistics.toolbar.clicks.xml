@@ -1,13 +1,14 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
+      <entry action="ChangesView.Revert@NavBarToolbar" count="1" />
       <entry action="MarkNotificationsAsRead@EventLog" count="1" />
       <entry action="Maven.AddManagedFiles@Maven Navigator Toolbar" count="3" />
       <entry action="Maven.DownloadAllGroupPopup@Maven Navigator Toolbar" count="1" />
       <entry action="Maven.ExecuteGoal@Maven Navigator Toolbar" count="1" />
-      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="36" />
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="37" />
       <entry action="Rerun@RunnerToolbar" count="3" />
-      <entry action="Run@NavBarToolbar" count="36" />
+      <entry action="Run@NavBarToolbar" count="71" />
       <entry action="ShowProjectStructureSettings@NavBarToolbar" count="2" />
       <entry action="Stop@NavBarToolbar" count="2" />
       <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="1" />

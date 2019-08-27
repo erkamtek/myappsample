@@ -1,3 +1,4 @@
 Coverage
 JUnit
+com.vladsch.idea.multimarkdown
 org.jetbrains.android
