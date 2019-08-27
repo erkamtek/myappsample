@@ -13,7 +13,7 @@
       <entry action="AddFrameworkSupport" count="3" />
       <entry action="Check RegExp" count="1" />
       <entry action="CheckinFiles" count="6" />
-      <entry action="CheckinProject" count="1" />
+      <entry action="CheckinProject" count="2" />
       <entry action="ChooseRunConfiguration" count="1" />
       <entry action="CloseProject" count="5" />
       <entry action="CodeInspection.OnEditor" count="1" />
@@ -30,7 +30,7 @@
       <entry action="DebugClass" count="2" />
       <entry action="Edit method contract" count="1" />
       <entry action="Edit options of reporter inspection" count="2" />
-      <entry action="EditorBackSpace" count="4205" />
+      <entry action="EditorBackSpace" count="4209" />
       <entry action="EditorChooseLookupItem" count="508" />
       <entry action="EditorCopy" count="69" />
       <entry action="EditorCut" count="20" />
@@ -52,7 +52,7 @@
       <entry action="Family name" count="1" />
       <entry action="Find" count="1" />
       <entry action="FindInPath" count="1" />
-      <entry action="Git.Add" count="2" />
+      <entry action="Git.Add" count="5" />
       <entry action="Git.CompareWithBranch" count="1" />
       <entry action="Git.Rebase" count="2" />
       <entry action="Git.Reset" count="1" />
@@ -91,9 +91,9 @@
       <entry action="Run inspection on ..." count="2" />
       <entry action="RunClass" count="70" />
       <entry action="SafeDelete" count="1" />
-      <entry action="SaveAll" count="21" />
+      <entry action="SaveAll" count="22" />
       <entry action="SearchEverywhere" count="1" />
-      <entry action="ShowProjectStructureSettings" count="12" />
+      <entry action="ShowProjectStructureSettings" count="13" />
       <entry action="Split Declaration and Initialization" count="1" />
       <entry action="Stop" count="2" />
       <entry action="TemplateProjectProperties" count="4" />

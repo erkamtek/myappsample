@@ -8,7 +8,7 @@
       <entry action="Maven.Reimport@Maven Navigator Toolbar" count="36" />
       <entry action="Rerun@RunnerToolbar" count="3" />
       <entry action="Run@NavBarToolbar" count="36" />
-      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="1" />
+      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="2" />
       <entry action="Stop@NavBarToolbar" count="2" />
       <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="1" />
       <entry action="com.intellij.notification.EventLogToolWindowFactory$DisplayBalloons@EventLog" count="2" />

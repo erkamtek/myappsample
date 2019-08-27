@@ -18,7 +18,7 @@
     <property name="PLUGIN_FILTER" value="cucumber&#10;cucu&#10;cucum&#10;testNG&#10;Junit" />
     <property name="TestNGSupport.hidePassedTests" value="false" />
     <property name="TestNGSupport.hideConfig" value="true" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6631098" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.66768295" />
     <property name="fileTypeChangedCounter" value="4" />
     <property name="cucumber.Splitter.Proportion" value="0.20467836" />
     <property name="ignoreUltimateEdition" value="true" />
